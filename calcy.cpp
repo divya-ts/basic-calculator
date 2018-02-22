@@ -28,17 +28,16 @@ class arithematic
 			if(b==0) 
 			{
 				throw b;
-			} else if (b < 0) 
+			} else if(b < 0) 
 			{
 				cout<<"Negative denominator not allowed\n";
 				cout<<"Please enter valid input\n";
 			}
 			else
 			{
-				throw "Invalid input format";
+				float result=a/b;
+				cout<<"Division of two numbers ="<<result<<endl;
 			}
-			float result=a/b;
-			cout<<"Division of two numbers ="<<result<<endl;
 		}
 		catch(int num) 
 		{
