@@ -1,0 +1,69 @@
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+1
+Enter first value: 
+23
+Enter second value: 
+44
+Addition of two numbers =67
+
+
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+2
+Enter first value: 
+45
+Enter second value: 
+30
+Subtraction of two numbers =15
+
+
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+3
+Enter first value: 
+34
+Enter second value: 
+6
+Multiplication of two numbers =204
+
+
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+4
+Enter first value: 
+45
+Enter second value: 
+5
+Division of two numbers =9
+
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+4
+Enter first value: 
+45
+Enter second value: 
+-5
+Negative denominator not allowed
+Please enter valid input
+
+
+Basic Arithmetic Operatios 
+1.Addition 	 2.Subtraction 	 3.Multiplication 	 4.Division 	 5.Exit 
+Enter your choice:
+4
+Enter first value: 
+66
+Enter second value: 
+0
+You cannot enter 0 in denominator.Divide By Zero Error
+Please enter valid input
+
+
+
+
